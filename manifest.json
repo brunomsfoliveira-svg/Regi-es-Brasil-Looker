@@ -2,7 +2,7 @@
   "data": [
     {
       "id": "concepts",
-      "label": "Concepts",
+      "label": "Configuração de Dados",
       "elements": [
         {
           "id": "dim",
@@ -27,18 +27,18 @@
   ],
   "style": [
     {
-      "id": "colorScale",
-      "label": "Escala de cores",
+      "id": "styleSettings",
+      "label": "Configuração de Estilo",
       "elements": [
         {
           "id": "minColor",
-          "label": "Cor mínima",
+          "label": "Cor Mínima",
           "type": "FONT_COLOR",
           "defaultValue": "#d0e1f9"
         },
         {
           "id": "maxColor",
-          "label": "Cor máxima",
+          "label": "Cor Máxima",
           "type": "FONT_COLOR",
           "defaultValue": "#08306b"
         }
